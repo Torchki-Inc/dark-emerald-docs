@@ -2,175 +2,175 @@
 
 > Abandon hope, all ye who enter here 💀
 
-## Health
+## health_current
 
 Current health.
 
-## MaxHealth
+## health_max
 
-Maximum [Health](#health).
+Maximum [health_current](#health_current).
 
-## RegenerationHealthRate
+## health_regeneration_rate
 
 Regeneration rate: how often health regeneration will activate.
 
-## RegenerationHealthPower
+## health_regeneration_amount
 
-How much [Health](#health) will be restored through regeneration.
+How much [health_current](#health_current) will be restored through regeneration.
 
-## Dexterity
+## dexterity
 
-Determines [ChanceDodge](#chancedodge).
+Determines [dodge_chance](#dodge_chance).
 
-## ChanceDodge
+## dodge_chance
 
-Chance to avoid an attack, depends on [Dexterity](#dexterity).
+Chance to avoid an attack, depends on [dexterity](#dexterity).
 
-## Mana
+## mana_current
 
 Current mana.
 
-## MaxMana
+## mana_max
 
-Maximum [Mana](#mana).
+Maximum [mana_current](#mana_current).
 
-## RegenerationManaRate
+## mana_regeneration_rate
 
 Regeneration rate: how often mana regeneration will activate.
 
-## RegenerationManaPower
+## mana_regeneration_amount
 
-How much [Mana](#mana) will be restored through regeneration.
+How much mana will be restored through regeneration.
 
-## DamageBlunt
+## damage_blunt
 
 Damage modifier for Blunt.
 
-## DamagePiercing
+## damage_piercing
 
 Damage modifier for Piercing.
 
-## DamageSlash
+## damage_slash
 
 Damage modifier for Slash.
 
-## DamageFire
+## damage_fire
 
 Damage modifier for Fire.
 
-## DamageCold
+## damage_cold
 
 Damage modifier for Cold.
 
-## DamageLight
+## damage_light
 
 Damage modifier for Light.
 
-## DamageDark
+## damage_dark
 
 Damage modifier for Dark.
 
-## DamageHoly
+## damage_holy
 
 Damage modifier for Holy.
 
-## DamageNecrotic
+## damage_necrotic
 
 Damage modifier for Necrotic.
 
-## DamageBlackFlame
+## damage_black_flame
 
 Damage modifier for Black Flame.
 
-## DamageShock
+## damage_shock
 
 Damage modifier for Shock.
 
-## DamagePoison
+## damage_poison
 
 Damage modifier for Poison.
 
-## DamageMagic
+## damage_magic
 
 Damage modifier for Magic.
 
-## ResistanceBlunt
+## resistance_blunt
 
 Resistance modifier for Blunt.
 
-## ResistancePiercing
+## resistance_piercing
 
 Resistance modifier for Piercing.
 
-## ResistanceSlash
+## resistance_slash
 
 Resistance modifier for Slash.
 
-## ResistanceFire
+## resistance_fire
 
 Resistance modifier for Fire.
 
-## ResistanceCold
+## resistance_cold
 
 Resistance modifier for Cold.
 
-## ResistanceLight
+## resistance_light
 
 Resistance modifier for Light.
 
-## ResistanceDark
+## resistance_dark
 
 Resistance modifier for Dark.
 
-## ResistanceHoly
+## resistance_holy
 
 Resistance modifier for Holy.
 
-## ResistanceNecrotic
+## resistance_necrotic
 
 Resistance modifier for Necrotic.
 
-## ResistanceBlackFlame
+## resistance_black_flame
 
 Resistance modifier for Black Flame.
 
-## ResistanceShock
+## resistance_shock
 
 Resistance modifier for Shock.
 
-## ResistancePoison
+## resistance_poison
 
 Resistance modifier for Poison.
 
-## ResistanceMagic
+## resistance_magic
 
 Resistance modifier for Magic.
 
-## CriticalChance
+## critical_chance
 
 Chance of a critical attack.
 
-## CriticalDamage
+## critical_damage
 
 Damage modifier for critical attacks.
 
-## AttackSpeed
+## attack_speed
 
 Modifier for attack speed.
 
-## MovementSpeed
+## movement_speed
 
 How fast the character walks.
 
-## SprintSpeed
+## sprint_speed
 
-How fast the character sprints; depends on [MovementSpeed](#movementspeed).
+How fast the character sprints; depends on [movement_speed](#movement_speed).
 
-## BlockChance
+## block_chance
 
 Chance to block damage.
 
-## BlockPower
+## block_power
 
 The amount of damage that can be blocked.
 
